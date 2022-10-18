@@ -3,66 +3,66 @@ margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
-title: Jimmy Hendricks
-description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
-keywords: 
-  - 'php' 
-  - 'mysql' 
-  - 'linux'
-author-meta: 'This will show up as <meta name"author"... in HTML meta tags:'
+title: Kristina Braknytė
+description-meta: 'My name is Kristina'
 ---
-###### [[example.com](https://example.com)] . [ me@example.com] . [ 123 456 7890 ]
-### This is where you have your statement, that describes who you are and what you're looking for. Hopefully it's not cliche and it stands out in a good way.  
 
-## Skills
-``` programming```
-``` devops ```
-```databases```
-```containers```
-```linux systems administration```
-```webservers```
-```project management```
-```system architecture & design```
-```entrepreneurship```
-```load/stress testing```
-``` WordPress```
+## About me
 
-**Programming**: Lua, Haskell, Erlang, Go, Javascript  
-**Databases**: MySQL, Postgres, sqlite, SQL Server, Oracle, Pick  
-**Linux**: Gentoo, Alpine, CentOS, Ubuntu, Debian  
-**DevOps**: Ansible, Chef, Kubernetes, etc.  
+**Who am I?** I'm software engineer!</br>
+**Maybe hobbies?** I like ballroom dances, reading books and board games.</br>
+**What about professional life?** My journey started in the Vilnius Tech university where I studied Information Technology. While finishing my bachelors degree, I decided to be a part of exciting IT community and started my career as system administrator. But I was eager to take one more step further - to create software. So I started learning to code on my free time and after a few months of studying I got my first internship. Now I am proud part of dev community.
 
 ## Experience
-### CEO and Founder, Pied Piper 
-start-date-end-date, City, State and remote
 
-- Things you did/do here 
-- More things that you do here. 
+### Zenitech
 
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job. 
+April 2021 - present</br>
+**Junior Software Engineer**
 
-### Senior Software Architect, Hooli
-2010-2016, San Francisco, CA
+Worked on the Identity project which aggregates multiple applications to one access point. Created static and interactive websites for authentication and account/user management. Although, my main focus was on the UI, I wasn't afraid to work on our services as well. That let me familiarize with serverless and AWS tools. Of course, as a part of a team I participated in Agile Scrum ceremonies to define and reach sprint goals.
 
-- This is the job you had before your latest job
-- Did you do anything that wasn't part of your job description, but you excelled at? 
+Tech stack:
+`Typescript`
+`React.js`
+`Node.js`
+`AWS Lambda`
 
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job. 
+### CGI
 
-## Awards & Recognition 
-  * Winner TechCrunch Disrupt 2001
-  * People Magazine's sexiest man alive at 123 My Address, MyCity, TX
+February 2021 - March 2021</br>
+**Associate Software Engineer**
 
-## Projects
-**[*Personal Blog*](http://luther.io)** (2021-present)
+While I was on the internship I researched frameworks and analysed them to figure out their strengths and weaknesses. Also, I developed mobile app using Ionic, Capacitor, React.js. To reach my goal of developing the "Card Game" app I practiced Agile Kanban.
 
-- Authored a series of articles covering a wide variety of topics and tools related to technology like PHP, WordPress, Ruby, Linux, Docker, and Privacy.
+Tech stack:
+`Typescript`
+`React.js`
+`Ionic + Capacitor`
 
-## Education 
+## Education
 
-### Masters in BS, Example University 
+### Vilnius Tech
 
-- 4.0 GPA 
-- Deans List
-- Member of xyz club, etc. 
-- I didn't really go to college so I don't know what you would put here. 
+Bachelor's degree in Informatics</br>
+Parallel Bachelor's degree in Business Management
+
+## Literature
+
+Literature that helps me grow.
+
+- **[The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)** by David Thomas and Andrew Hunt
+- **[Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf)** by Harold Abelson and Gerald Jay Sussman with Julie Sussman
+- **[thevaluable.dev](https://thevaluable.dev/)** by Matthieu Cneude
+
+## Languages
+
+**English** (Professional Working)</br>
+**Lithuanian** (Native)</br>
+**Russian** (Elementary)
+
+## Contacts
+
+**Email:** KBraknyte@gmail.com</br>
+**Phone:** +370 636 234 35</br>
+**LinkedIn:** https://www.linkedin.com/in/kristinabr
