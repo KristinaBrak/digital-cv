@@ -8,9 +8,9 @@ description-meta: Front-End Web Developer
 ---
 ## Skills
 
-* I build web applications using **React.js**, **Typescript**, **Scss** and component libraries like **Material UI**.
-* For backend services I use **node.js** runtime with extra type safety provided by **Typescript**.
-* For saving and maintaining data I use document database such as **MongoDB**. Nevertheless, I have a good grasp of relational databases such as **PostgreSQL**.
+* Ability to build web applications using **React.js**, **Typescript**, **Scss** and component libraries like **Material UI**.
+* Using **node.js** runtime with extra type safety provided by **Typescript** to build backend services.
+* For saving and maintaining data using document database such as **MongoDB**. Nevertheless, have a good grasp of relational databases such as **PostgreSQL**.
 * Familiar with **AWS lambda** for serverless deployments. This helps to scale my code infinitely.
 
 ## Experience
@@ -19,8 +19,8 @@ description-meta: Front-End Web Developer
 
 April 2021 - present</br>
 
-Worked on the Identity project which aggregates multiple applications into one access point. Created static and interactive websites for authentication and account/user management. Although, my main focus was on the UI, I was eager to work on our backend services as well. I got familiar with serverless deployments and AWS tools such as lambda. Of course, as a part of a team I participated in Agile Scrum ceremonies to define and reach sprint goals. 
-Outside the project I organized and lead coding event and actively participated in the developer community by sharing knowledge and suggesting improvements.
+Worked on the Identity project which aggregates multiple applications into one access point. Created static and interactive websites for authentication and account/user management. Although, my main focus was on the UI, I was eager to work on our backend services as well. I got familiar with serverless deployments and AWS tools such as lambda. Of course, as a part of a team I participated in Agile Scrum ceremonies to define and reach sprint goals. </br>
+Outside the project I organized and led coding event and actively participated in the developer community by sharing knowledge and suggesting improvements.
 
 Tech stack:
 `Typescript`
