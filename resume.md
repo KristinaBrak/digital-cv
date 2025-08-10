@@ -6,6 +6,9 @@ margin-bottom: 2cm
 title: Kristina Sidabrė
 description-meta: Web Developer
 ---
+## About me
+I’m a web developer who loves turning ideas into reality by building components that fit together like pieces of a well-crafted puzzle. When I’m not coding, you’ll probably find me lost in a good book, binge-watching a TV series or out riding my bike. I enjoy solving problems, learning new things and creating solutions that feel both meaningful and rewarding.
+
 ## Skills
 
 ## Experience
@@ -15,9 +18,9 @@ description-meta: Web Developer
 
 April 2023 - present</br>
 
-Familiar with micro-frontend architecture from two points of view - product & design system library. While working on a blog I have sharpened my state management, functional programming, typescript and styling skills. Maintained and developed blog feed, post apps. One of biggest tasks that I took ownership of was implementing flow of post creation with the help of AI.
-Currently working in Wix Design System team. While developing a broadly used library I design modular and reusable components, implement and provide teskits, style using design tokens, ensure components meet accessibility best practices and write visual & unit tests.
-Working in these teams broaden my understanding on micro-frontend principles - how teams interact, how decisions are made and how to find fast and best solution.
+I worked on both the Blog and Design System teams. </br>
+In the blog team developed feed and post page apps. I took ownership of building the UI for an AI-powered tool which created unique and engaging posts. </br>
+Within the Wix Design System I have maintained internally and externally used component library. My day-to-day work involved developing modular, reusable and themed components. Furthermore, I worked on various codebase improvements, such as legacy package cleanup from the mono-repository and popover library deprecation. These improvements made codebase clearer, more maintainable and up to date. Additionally, I completed a certified accessibility course, strengthening my ability to create inclusive and compliant user experiences.
 
 Tech stack:
 `Typescript`
@@ -40,6 +43,10 @@ Tech stack:
 `Node.js`
 `AWS services`
 
+### Software Engineer at CGI (Internship)
+
+February 2021 - March 2021</br>
+
 ## Education
 
 ### Vilnius Tech
@@ -51,7 +58,7 @@ Parallel Bachelor's degree in Business Management
 
 Literature that helps me grow.
 
-- **[Micro Frontends in Action]** by Michael Geers
+- **[Micro Frontends in Action](https://www.amazon.com/Micro-Frontends-Action-Michael-Geers/dp/1617296872)** by Michael Geers
 - **[The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)** by David Thomas and Andrew Hunt
 - **[Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)** by Brian Lonsdorf
 
