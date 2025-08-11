@@ -18,7 +18,7 @@ I’m a web developer who loves turning ideas into reality by building component
 
 April 2023 - present</br>
 
-I worked on both the Blog and Design System teams. </br>
+Worked on both the Blog and Design System teams. </br>
 In the blog team developed feed and post page apps. I took ownership of building the UI for an AI-powered tool which created unique and engaging posts. </br>
 Within the Wix Design System I have maintained internally and externally used component library. My day-to-day work involved developing modular, reusable and themed components. Furthermore, I worked on various codebase improvements, such as legacy package cleanup from the mono-repository and popover library deprecation. These improvements made codebase clearer, more maintainable and up to date. Additionally, I completed a certified accessibility course, strengthening my ability to create inclusive and compliant user experiences.
 
